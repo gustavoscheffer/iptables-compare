@@ -1,0 +1,12 @@
+# Script usado para comparar duas saídas do iptables-save:
+
+
+Sintax
+iptables-compare.sh [arquivos_antigo] [arquivo_corrente]
+
+########################################################################
+# Name:iptables-compare.sh
+# Version:1.0
+# Description: script usado para comparar dois arquivps iptables-save
+# Author: Gustavo Scheffer
+########################################################################
